@@ -5,9 +5,10 @@ title: Home
 
 # Welcome to My Blog
 
-Here's my Wandrer map embedded below:
+My name is Michael and starting July 6th 2025 I will be biking from the Canadian Border
+all the way down to the Mexico border along the West Coast.
 
-<iframe src="https://wandrer.earth/users/183388/embed" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+I will have daily updates posted here so follow along!
 
 Check out my latest post below 👇
 
