@@ -7,7 +7,7 @@ title: Home
 
 Here's my Wandrer map embedded below:
 
-<iframe src="https://wandrer.earth/users/your-wandrer-username/embed" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://wandrer.earth/users/183388/embed" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 Check out my latest post below 👇
 
