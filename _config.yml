@@ -1,0 +1,8 @@
+title: My Wandrer Blog
+description: A simple GitHub Pages blog with a Wandrer iframe
+author: Michael Ryan
+baseurl: ""
+url: "https://your-username.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
